@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nuran\\source\\repos\\ViewModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1622432C-690B-47E0-B4DE-5E788A98F397}|ViewModel\\ViewModel.csproj|c:\\users\\nuran\\source\\repos\\viewmodel\\viewmodel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1622432C-690B-47E0-B4DE-5E788A98F397}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1622432C-690B-47E0-B4DE-5E788A98F397}|ViewModel\\ViewModel.csproj|c:\\users\\nuran\\source\\repos\\viewmodel\\viewmodel\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1622432C-690B-47E0-B4DE-5E788A98F397}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1622432C-690B-47E0-B4DE-5E788A98F397}|ViewModel\\ViewModel.csproj|c:\\users\\nuran\\source\\repos\\viewmodel\\viewmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1622432C-690B-47E0-B4DE-5E788A98F397}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1622432C-690B-47E0-B4DE-5E788A98F397}|ViewModel\\ViewModel.csproj|c:\\users\\nuran\\source\\repos\\viewmodel\\viewmodel\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1622432C-690B-47E0-B4DE-5E788A98F397}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1622432C-690B-47E0-B4DE-5E788A98F397}|ViewModel\\ViewModel.csproj|c:\\users\\nuran\\source\\repos\\viewmodel\\viewmodel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1622432C-690B-47E0-B4DE-5E788A98F397}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\ViewModel\\ViewModel\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\ViewModel\\ViewModel\\Models\\Product.cs",
+              "RelativeToolTip": "ViewModel\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:59:29.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\ViewModel\\ViewModel\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ViewModels\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\ViewModel\\ViewModel\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "ViewModel\\ViewModels\\ProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:13:41.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\ViewModel\\ViewModel\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewModel\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\ViewModel\\ViewModel\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewModel\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T19:57:13.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\ViewModel\\ViewModel\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\ViewModel\\ViewModel\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewModel\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:47:11.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\ViewModel\\ViewModel\\Program.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Program.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\ViewModel\\ViewModel\\Program.cs",
+              "RelativeToolTip": "ViewModel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:40:57.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

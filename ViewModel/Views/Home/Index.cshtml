@@ -1,0 +1,35 @@
+﻿@using ViewModel.ViewModels
+@model ProductVM
+
+<Table border="1">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Discount Price</th>
+            <th>Category</th>
+            <th>Color</th>
+            <th>Description</th>
+            <th>Img</th>
+            
+        </tr>
+        <tbody>
+            @foreach(var products in Model.Products)
+            {
+            <tr>
+                <td>@products.Id</td>
+                <td>@products.Name</td>
+                <td>@products.Price</td>
+                <td>@products.DiscountPrice</td>
+                <td>@products.Category</td>
+                <td>@products.Color</td>
+                <td>@products.Description</td>
+                <td><img src="{@products.Img" alt="ayi sekli"></td>
+            </tr>
+            }
+        </tbody>
+
+
+    </thead>
+</Table>
